@@ -3,7 +3,6 @@
 wp-content/mu-plugins/
 wp-content/themes/bigeasy/*.php
 wp-content/themes/bigeasy/style.css
-wp-content/themes/bigeasy/assets/site.js
 wp-content/themes/bigeasy/assets/fonts/fonts.css
 *.jpeg
 *.bak
