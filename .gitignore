@@ -7,3 +7,5 @@ wp-content/themes/bigeasy/assets/site.js
 wp-content/themes/bigeasy/assets/fonts/fonts.css
 *.jpeg
 *.bak
+.visual-verify/
+verify-evidence/
