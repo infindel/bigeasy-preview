@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://infindel.github.io/bigeasy-preview/sitemap.xml
