@@ -9,3 +9,4 @@ wp-content/themes/bigeasy/assets/fonts/fonts.css
 *.bak
 .visual-verify/
 verify-evidence/
+.seo-check-report.json
